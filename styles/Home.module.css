@@ -117,3 +117,10 @@
 .logo img {
   filter: invert(1);
 }
+
+.completeBtn {
+  min-width: 48px !important;
+  max-width: 48px !important;
+  background-color: lightgreen !important;
+  color: darkgreen !important;
+}
